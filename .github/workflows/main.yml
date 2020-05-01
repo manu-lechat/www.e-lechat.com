@@ -15,6 +15,6 @@ jobs:
           local: .
           remote: /home/elechatccn
           host: ftp.cluster021.hosting.ovh.net
-          port: 22
+          port: 21
           username: ${{ secrets.SFTP_USER }}
           password: ${{ secrets.SFTP_PASSWORD }}
