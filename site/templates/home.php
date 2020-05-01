@@ -82,10 +82,10 @@ $vireBadCars = function($chaineBad){
     <div class="text_wrapper">
       <h2 class="titre">Réaliser<br>un projet web</h2>
       <p>
-      Mon cœur de métier est <span class="bold">l'intégration Html5</span>.<br>
+      Mon cœur de métier est <strong>l'intégration Html5</strong>.<br>
       Le plus ouvent en partenariat avec une agence de communication qui réalise le webdesign en amont,
       je prends le relais pour convertir la maquette graphique en un site fonctionnel.
-        Mon métier est de m'adapter à une demande spécifique et de  <span class="bold">réaliser des sites sur-mesure</span> ... au pixel près.
+        Mon métier est de m'adapter à une demande spécifique et de  <strong>réaliser un site sur-mesure</strong> ... au pixel près.
       </p>
 
 
