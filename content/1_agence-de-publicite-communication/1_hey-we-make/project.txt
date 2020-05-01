@@ -1,0 +1,77 @@
+Title: hey we make
+
+----
+
+Seo-tags: 
+
+----
+
+Togglehome: true
+
+----
+
+Category: 
+
+----
+
+Images-projet:
+
+- poster.jpg
+
+----
+
+Video:
+
+- heywemake.mp4
+
+----
+
+Subtitle: book Designer digital
+
+----
+
+Objectif: Création du site internet d'un Directeur Artistique Digital
+
+----
+
+Description: Réalisation du book HeyWeMake - Stève Degroot DA digital.
+
+----
+
+Urlsite: http://www.heywemake.com
+
+----
+
+Contexte:
+
+Création du site HeyWeMake sur la base d'un webdesign créé par Steve De Groot. 
+Maquette graphique animée sous After-effect. 
+Animation de l'intro au format Svg.
+
+----
+
+Realisation:
+
+Mise en page Css sur une grille responsive. 
+Transition fluide d'une page à l'autre via le plugin Barba.Js. 
+Mise en place d'un back-office permettant la mise à jour complète du site.
+
+----
+
+Tags: DA web, animation Css, webdesign en vidéo
+
+----
+
+Role: Integration front-end, Mise en page css, programmation Javascript barba.js
+
+----
+
+Annee: 2019
+
+----
+
+Seo: book Designer digital
+
+----
+
+Solutions: 

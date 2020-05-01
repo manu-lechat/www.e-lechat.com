@@ -1,0 +1,67 @@
+Title: Kerjean
+
+----
+
+Seo-tags: 
+
+----
+
+Togglehome: false
+
+----
+
+Category: borne
+
+----
+
+Images-projet:
+
+- 2.jpg
+- 3.jpg
+- 4.jpg
+- 5.jpg
+- 1.jpg
+
+----
+
+Video: 
+
+----
+
+Subtitle: Interface tactile - Chateau de Kerjean
+
+----
+
+Objectif: Créer une interface ludique dans le cadre d'une exposition.
+
+----
+
+Description: Sur un design signé KEROZEN, programmation Flash de l'interface
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: Dans le cadre d'une exposition au chateau de Kerjean. L'agence Kerozen a réalisé le design d'un quizz permettant de s'immerger dans l'époque moyen ageuse. J'ai été chargé de créer l'interface interactive.
+
+----
+
+Realisation: Programmation Flash AS3 de l'application off-line. Pour gérer le multilangue, les contenus sont gérés au format xml.
+
+----
+
+Tags: Programmation Flash AS3 & XML, interface tactile de muséographie, Interface quizz pour une exposition
+
+----
+
+Annee: 
+
+----
+
+Solutions: 
+
+----
+
+Seo: 

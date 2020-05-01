@@ -1,0 +1,43 @@
+Title: mshb
+
+----
+
+Seo-tags: mshb, integration html5
+
+----
+
+Category: imac
+
+----
+
+Images-projet:
+
+- 002.jpg
+- 001.jpg
+- 004.jpg
+- 003.jpg
+- 005.jpg
+
+----
+
+Video: 
+
+----
+
+Subtitle: Maison des sciences de l'Homme en Bretagne
+
+----
+
+Description: Mise en page responsive du site de la Maison de l'Homme en Bretagne. Webdesign signé Samuel Jan.
+
+----
+
+Tags: integration html5, logo design  génératif
+
+----
+
+Urlsite: 
+
+----
+
+Annee: 

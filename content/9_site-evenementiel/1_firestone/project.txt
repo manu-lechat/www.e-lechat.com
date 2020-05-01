@@ -1,0 +1,78 @@
+Title: Firestone
+
+----
+
+Seo-tags: intégration html css template Node.js
+
+----
+
+Togglehome: true
+
+----
+
+Category: imac
+
+----
+
+Images-projet:
+
+- 002.jpg
+- 006.jpg
+- 004.jpg
+- 001.jpg
+- 005.jpg
+- 007.jpg
+
+----
+
+Video:
+
+- firectone.mp4
+
+----
+
+Subtitle: Firesone music talent
+
+----
+
+Objectif: Réaliser le site d'un festival de musique
+
+----
+
+Description: Web-Design : idéactif. j'ai réalisé la mise en page responsive du site
+
+----
+
+Urlsite: https://musictalents.firestone.fr/
+
+----
+
+Contexte: L'agence Ideactif m'a confié la réalisation de l'integration Front-end du site "Firestone Music talent". Design graphique et dev Bac-end réalisé par l'agence. Projet construit sur une base Node.js ( je suis intervenu uniquement sur les templates ) echanges des fichiers sur plateforme Git.
+
+----
+
+Realisation:
+
+Mise en page responsive au format Html5 et Css. 
+Mise en avant des contenus à travers des effets d'animations css et parallax.
+Mise en place de plugins audio et vidéo.
+
+----
+
+Tags: Mise en page responsive, Intégrateur front-end Html Css
+
+----
+
+Role: Mise en page responsive, Animations Css3
+
+----
+
+Description-longue: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+----
+
+Annee: 2018
+
+----
+
+Seo: 

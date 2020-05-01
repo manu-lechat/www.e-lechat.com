@@ -1,0 +1,62 @@
+Title: Le musée passager
+
+----
+
+Seo-tags: 
+
+----
+
+Togglehome: false
+
+----
+
+Category: borne
+
+----
+
+Images-projet:
+
+- 006.jpg
+- 002.jpg
+- 003.jpg
+- 005.jpg
+
+----
+
+Video: 
+
+----
+
+Subtitle: Le Musée Passager
+
+----
+
+Objectif: Interface tactile "Le musée passager".
+
+----
+
+Description: Programmation Flash de l'interface
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: Sur un design défini, on m'a confié le développement de l'interface tactile présentant l'exposition.
+
+----
+
+Realisation: Programmation AS3 de l'application Off-line.
+
+----
+
+Tags: Interface tactile de muséographie, Programmation Flash AS3 & XML
+
+----
+
+Annee: 2012
+
+----
+
+Seo: Programmation Flash de l'interface

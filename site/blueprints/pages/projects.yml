@@ -1,0 +1,38 @@
+title: Projects
+
+status:
+    draft: Brouillon
+    listed: Publié
+
+options:
+  delete: true
+  changeStatus: true
+  changeSlug: true
+  changeTitle: true
+  duplicate: true
+  url: true
+
+columns:
+
+  - width: 1/3
+
+
+    fields:
+
+      text:
+        label: Texte
+        type: textarea
+        size: large
+        buttons: false
+
+
+  - width: 2/3
+
+      sections:
+
+        listing_projects:
+          type: pages
+          status: all
+          image: false
+          templates:
+            - project

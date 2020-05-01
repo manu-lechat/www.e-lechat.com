@@ -1,0 +1,60 @@
+Title: Athénor
+
+----
+
+Seo-tags: réalisation du site d'une salle de spéctacle
+
+----
+
+Togglehome: true
+
+----
+
+Category: imac
+
+----
+
+Images-projet:
+
+- capture-decran-2020-01-04-a-02.49.50.png
+- capture-decran-2020-01-04-a-02.48.54.png
+
+----
+
+Video: 
+
+----
+
+Subtitle: Athénor scène itinérante à Saint-Nazaire
+
+----
+
+Objectif: Créer le site d'un Centre national de création musicale
+
+----
+
+Description: Athénor œuvre à l’émergence et à l’accompagnement de la création contemporaine
+
+----
+
+Urlsite: http://www.athenor.com
+
+----
+
+Contexte: Scène nomade implantée dans la ville portuaire de Saint-Nazaire, Athénor œuvre à l’émergence et à l’accompagnement de la création contemporaine
+
+----
+
+Realisation: En partenariat avec Samuel Jan, et l'atelier "informationCare", nous avons réalisé un site épuré et minimaliste.
+
+----
+
+Tags: site internet sur mesure, Centre national de création musicale
+
+----
+
+Annee: 2019
+
+----
+
+Seo: 

@@ -1,0 +1,65 @@
+Title: Glen Chapron
+
+----
+
+Seo-tags: site portfolio illustrateur, site portfolio bande dessinée
+
+----
+
+Togglehome: true
+
+----
+
+Category: imac
+
+----
+
+Images-projet:
+
+- 002.jpg
+- 003.jpg
+- 004.jpg
+
+----
+
+Video: 
+
+----
+
+Subtitle: Book Illustration - Glen Chapron
+
+----
+
+Objectif: Création du portfolio d'un illustrateur.
+
+----
+
+Description: Site réalisé en collaboration avec Samuel Jan.
+
+----
+
+Urlsite: http://glenchapron.com/
+
+----
+
+Contexte: Book de Glen Chapron, portfolio illustrateur jeunesse et bande dessinée.
+
+----
+
+Realisation: En collaboration avec Samuel Jan, j'ai réalisé la mise en page d'un template wordpress sur mesure pour ce book en ligne d'illustrateur. Utilisation du plugin Massonry pour la mise en page responsive de la mosaïque.
+
+----
+
+Tags: book illustration, wordpress
+
+----
+
+Role: 
+
+----
+
+Annee: 
+
+----
+
+Seo: Book Illustration - Glen Chapron

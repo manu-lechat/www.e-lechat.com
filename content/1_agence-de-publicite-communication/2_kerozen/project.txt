@@ -1,0 +1,75 @@
+Title: Kerozen
+
+----
+
+Seo-tags: 
+
+----
+
+Togglehome: true
+
+----
+
+Category: 
+
+----
+
+Images-projet:
+
+- 2.jpg
+- 6.jpg
+- 4.jpg
+- 5.jpg
+- 1.jpg
+- 3.jpg
+
+----
+
+Video: 
+
+----
+
+Subtitle: Site de l'agence Kerozen
+
+----
+
+Objectif: Réaliser le site Internet d'une agence de communication.
+
+----
+
+Description:
+
+Réalisation d'un template sur-mesure. 
+Design : Agence Kerozen.
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: L'agence Kerozen a conçu le design de son site Internet en mettant l'accent sur la mise en avant de visuels à fort impact et en plein ecran.
+
+----
+
+Realisation: L'agence m'a confié la réalisation technique du projet, l'integration html du site sur la base de la maquette graphique. j'ai créé un template wordpress sur mesure. Effets de parallax, gallerie de projets sur le plugin massonry, mise en page responsive, programmation Css pour les animations.
+
+----
+
+Tags: wordpress, template sur-mesure, animation css
+
+----
+
+Role: 
+
+----
+
+Annee: 2016
+
+----
+
+Seo: agence kerozen
+
+----
+
+Solutions: 

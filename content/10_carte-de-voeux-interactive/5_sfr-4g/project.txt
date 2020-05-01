@@ -1,0 +1,57 @@
+Title: Sfr 4g
+
+----
+
+Seo-tags: animation flash, didactique visuelle
+
+----
+
+Togglehome: false
+
+----
+
+Category: ipad
+
+----
+
+Images-projet:
+
+- sfr_03.png
+- sfr_01.png
+- sfr_05.png
+
+----
+
+Video: 
+
+----
+
+Subtitle: Animation didactique SFR
+
+----
+
+Objectif: Module e-learning
+
+----
+
+Description: Module didactique grand-public réalisé pour SFR. réalisation des illustrations et de l'animation.
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: Module didactique grand-public réalisé pour SFR.
+
+----
+
+Realisation: Réalisation des illustration et des animations didactiques de l'application.
+
+----
+
+Tags: animation flash, didactique visuelle, illustrator
+
+----
+
+Annee: 2010

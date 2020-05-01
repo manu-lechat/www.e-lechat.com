@@ -1,0 +1,62 @@
+Title: Boat-people carte
+
+----
+
+Seo-tags: borne tactile d'exposition
+
+----
+
+Togglehome: false
+
+----
+
+Category: borne
+
+----
+
+Images-projet:
+
+- 003.jpg
+- 004.jpg
+- 002.jpg
+- 001.jpg
+
+----
+
+Video: 
+
+----
+
+Subtitle: Borne tactile de l'exposition "Boat-peoples"
+
+----
+
+Objectif: Créer une application de muséographie off-line
+
+----
+
+Description: Sur un design signé KEROZEN, programmation Flash de l'interface
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: Dans le cadre d'une exposition aux "Champs-libres" de Rennes. L'agence Kerozen a réalisé le design d'une borne tactile présentant les cartes de l'événement. J'ai été chargé de créer l'interface interactive.
+
+----
+
+Realisation: Programmation en Flash de cette application Off-line. Animation des cartes. Programmation AS3
+
+----
+
+Tags: Borne tactile muséographie, Application off-line Flash AS3
+
+----
+
+Annee: 2009
+
+----
+
+Seo: Programmation Flash pour cette borne tactile

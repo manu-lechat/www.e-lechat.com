@@ -1,0 +1,61 @@
+Title: Voeux Ministère
+
+----
+
+Seo-tags: animation d'une carte de voeux interactive
+
+----
+
+Togglehome: false
+
+----
+
+Category: imac
+
+----
+
+Images-projet:
+
+- cover.jpg
+
+----
+
+Video:
+
+- montage_800x450_1.mp4
+
+----
+
+Subtitle: Carte de voeux interactive
+
+----
+
+Objectif: Animation d'une carte de voeux interactive.
+
+----
+
+Description: Animation sur le thème de l'année de la biodiversité pour les voeux du ministère de lʼEnseignement supérieur et de la recherche. Design réalisé par Interneto.
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: Animation Flash présentant les voeux du ministère de l'enseignement supérieur sur le thème de la biodiversité.
+
+----
+
+Realisation: Programmation Flash AS3 des mouvements de l'animation.
+
+----
+
+Tags: animation Flash, carte de voeux interactive
+
+----
+
+Annee: 
+
+----
+
+Seo: Carte de voeux interactive

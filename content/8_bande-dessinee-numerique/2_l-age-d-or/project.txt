@@ -1,0 +1,68 @@
+Title: L'âge d'or
+
+----
+
+Seo-tags: bande dessinée numérique, éditions dupuis programmeur
+
+----
+
+Togglehome: true
+
+----
+
+Category: ipad
+
+----
+
+Images-projet:
+
+- 005.jpg
+- 003.jpg
+- 001.jpg
+- 002.jpg
+
+----
+
+Video:
+
+- lagedor_1.mp4
+
+----
+
+Subtitle: L'âge d'Or
+
+----
+
+Objectif: Présenter un album de bande dessinée au format web.
+
+----
+
+Description: Site présentant en avant première les pages de l'âge d'or, magnifique album réalisé par Roxanne Moreil  et  Cyril Pedrosa pour la maison d'édition Dupuis. Projet réalisé avec la précieuse collaboration de Dorian Simeha.
+
+----
+
+Urlsite: http://www.lagedor-airelibre.com/
+
+----
+
+Contexte: En partenariat avec France-Inter, La maison d'édition Dupuis a souhaité annoncer la sortie de l'album l'âge d'or, réalisé par Roxanne Moreil et Cyril Pedrosa.
+
+----
+
+Realisation: Projet réalisé avec la précieuse collaboration de Dorian Simeha. Nous avons développé un site permettant la lecture des différents chapitre de l'album. Site multilingue avec back-office Kirby.
+
+----
+
+Tags: design de l'interface, développement Kirby cms, animations css et javascript
+
+----
+
+Annee: 2018
+
+----
+
+Seo: Player de bd numérique - L'âge d'Or - éditions Dupuis
+
+----
+
+Solutions: 

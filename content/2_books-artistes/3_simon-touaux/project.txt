@@ -1,0 +1,64 @@
+Title: Simon Touaux
+
+----
+
+Seo-tags: site portfolio artiste, book en ligne, site artiste plasticien
+
+----
+
+Togglehome: false
+
+----
+
+Category: imac
+
+----
+
+Images-projet:
+
+- 5.jpg
+- 6.jpg
+- 2.jpg
+- 3.jpg
+- 1.jpg
+- 4.jpg
+
+----
+
+Video: 
+
+----
+
+Subtitle: Simon Touaux
+
+----
+
+Objectif: Créer le portfolio d'un artiste
+
+----
+
+Description: Webdesign et back-office sur-mesure.
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: Simon Touaux est un artiste plasticien. Il crée des oeuvres d'ombres et de lumières.
+
+----
+
+Realisation: Conception du graphisme du site et réalisation du site en Flash AS3, associé à un back-office Php fait-maison permettant la mise à jour des contenus Xml.
+
+----
+
+Tags: Flash AS3, site book artiste
+
+----
+
+Annee: 2010
+
+----
+
+Seo: 

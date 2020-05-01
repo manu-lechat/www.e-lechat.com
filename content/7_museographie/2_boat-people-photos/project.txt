@@ -1,0 +1,64 @@
+Title: Boat-people photos
+
+----
+
+Seo-tags: borne tactile off-line programmée en flash AS3
+
+----
+
+Togglehome: true
+
+----
+
+Category: borne
+
+----
+
+Images-projet:
+
+- 003.jpg
+- 002.jpg
+- 004.jpg
+- 005.jpg
+- 001.jpg
+- 006.jpg
+
+----
+
+Video: 
+
+----
+
+Subtitle: Borne tactile de l'exposition "Boat-peoples"
+
+----
+
+Objectif: Création de la borne tactile d'une exposition
+
+----
+
+Description: Sur un design signé KEROZEN, programmation Flash de l'interface
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: Dans le cadre d'une exposition aux "Champs-libres" de Rennes. L'agence Kerozen a réalisé le design d'une borne tactile présentant les témoignages de cette pèriode. J'ai été chargé de créer l'interface interactive.
+
+----
+
+Realisation: Programmation en Flash de cette application Off-line. Manipulation tactile des photos. Programmation AS3
+
+----
+
+Tags: Application off-line Flash AS3, Borne tactile muséographie
+
+----
+
+Annee: 2009
+
+----
+
+Seo: Programmation Flash pour cette borne tactile

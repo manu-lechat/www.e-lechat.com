@@ -1,0 +1,69 @@
+Title: WeAre
+
+----
+
+Seo-tags: interface tactile, webgl, html5
+
+----
+
+Togglehome: false
+
+----
+
+Category: borne
+
+----
+
+Images-projet:
+
+- weare.jpg
+
+----
+
+Video:
+
+- weare.mp4
+
+----
+
+Subtitle: Groupe WeAre
+
+----
+
+Objectif: Création d'une borne tactile pour le salon du bourget.
+
+----
+
+Description: Borne tactile présentée au sein d'un salon présentant le groupe et son implantation. Webgl & Vue.js réalisé par Xavier Seignard.
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: Le groupe WeAre est un consortium d'entreprises de l'aéronautique. Dans un contexte de salon, Le groupe a souhaité une interface tactile attractive. Globe terrestre en 3D Webgl & Vue.js réalisé par Xavier Seignard.
+
+----
+
+Realisation: J'ai été sur ce projet développeur front-end, créant les tempates sur la base de la maquette graphique définie et ce au sein d'une architecture vue.js.
+
+----
+
+Tags: intergation front-end, animation css, conception de l'ergonomie
+
+----
+
+Role: 
+
+----
+
+Annee: 2019
+
+----
+
+Seo: borne tactile avec un globe interactif
+
+----
+
+Solutions: 

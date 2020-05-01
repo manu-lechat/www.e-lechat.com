@@ -1,0 +1,66 @@
+Title: M.Surricat
+
+----
+
+Seo-tags: portfolio développeur front-end
+
+----
+
+Togglehome: false
+
+----
+
+Category: 
+
+----
+
+Images-projet:
+
+- 4.jpg
+- 3.jpg
+- 2.jpg
+- 1.jpg
+
+----
+
+Video: 
+
+----
+
+Subtitle: M.Suricat
+
+----
+
+Objectif: Intégration Html5 css d'un site startup.
+
+----
+
+Description: Développement d'un site responsive sur un design fourni par une agence partenaire.
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: M.Suricat propose une solution de testing automatisée.
+
+----
+
+Realisation: Mise en page sur mesure sur la base d'un framework Css Bootstrap.
+
+----
+
+Tags: Integration sur-mesure, css bootstrap, intégration statique
+
+----
+
+Annee: 2016
+
+----
+
+Solutions: 
+
+----
+
+Seo: 

@@ -1,0 +1,71 @@
+Title: Borne tactile  «Bandes Fantômes»
+
+----
+
+Seo-tags: 
+
+----
+
+Category: borne
+
+----
+
+Images-projet:
+
+- 001.jpg
+- 002.jpg
+- 003.jpg
+- 004.jpg
+- 007.jpg
+
+----
+
+Video: 
+
+----
+
+Subtitle: BD numérique
+
+----
+
+Description: Présentée dans le cadre d'une exposition au festival Pulp, à La Ferme du Buisson, cette borne tactile présente des milliers de planches de BD jamais publiées.
+
+----
+
+Tags: design graphique, programmation php, programmation de l'interface tactile
+
+----
+
+Urlsite: 
+
+----
+
+Annee: 2015
+
+----
+
+Seo: zaefghj
+
+----
+
+Contexte: 
+
+----
+
+Solutions: 
+
+----
+
+Images: 
+
+----
+
+Cover: - 001.jpg
+
+----
+
+Previewfiles: 
+
+----
+
+Url-key: 

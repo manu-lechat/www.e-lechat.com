@@ -1,0 +1,62 @@
+Title: Rapport d'activité Agence Parisiennes du Climat
+
+----
+
+Seo-tags: 
+
+----
+
+Togglehome: true
+
+----
+
+Category: imac
+
+----
+
+Images-projet:
+
+- capture-d-ecran-2019-02-18-01.08.36.png
+- capture-d-ecran-2019-02-18-01.07.58.png
+- capture-d-ecran-2019-02-18-01.07.49.png
+- capture-d-ecran-2019-02-18-01.08.46.png
+
+----
+
+Video: 
+
+----
+
+Subtitle: Rapport d'activité Agence Parisiennes du Climat
+
+----
+
+Objectif: Mise en page d'un rapport d'activité au format web.
+
+----
+
+Description: Mise en page Html5 du rapport d'activité annuel de l'Agence Parisienne du Climat
+
+----
+
+Urlsite: https://www.apc-paris.com/rapport-activites-2017/
+
+----
+
+Contexte: Pour réduire son utilisation du papier, l'Agence parisienne du climat souhaite publier son rapport d'activité au format web.
+
+----
+
+Realisation: Dans un souci de sobriété numérique nous avons choisi une solution légère techniquement sans appel serveurs.
+
+----
+
+Tags: mise en page responsive, rapport d'activité, sobriété numérique
+
+----
+
+Annee: 2017
+
+----
+
+Seo: 

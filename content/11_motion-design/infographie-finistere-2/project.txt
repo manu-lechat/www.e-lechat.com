@@ -1,0 +1,61 @@
+Title: Infographie Finistère
+
+----
+
+Seo-tags: infographie animée, motion-design
+
+----
+
+Togglehome: true
+
+----
+
+Category: 
+
+----
+
+Images-projet:
+
+- poster.jpg
+
+----
+
+Video:
+
+- finistere1.mp4
+
+----
+
+Subtitle: Infographie Finistère
+
+----
+
+Objectif: Créer une infographie animée au format vidéo.
+
+----
+
+Description: Storyboard, Design et Animation After-Effect
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: Le département du Finistère a souhaité créer une infographie pour présenter ses actions.
+
+----
+
+Realisation: Création du design et animation de l'infographie sous After-effect.
+
+----
+
+Tags: Motion-Design, Infographie au format vidéo, Animation After-effect
+
+----
+
+Annee: 
+
+----
+
+Seo: 

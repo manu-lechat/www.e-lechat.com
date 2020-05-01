@@ -1,0 +1,46 @@
+Title: Le Journal des Entreprises
+
+----
+
+Seo-tags: mise en page du magazine, web-ap tablette responsive
+
+----
+
+Category: ipad
+
+----
+
+Images-projet:
+
+- img_0121.png
+- img_0118.png
+- img_0119.png
+- img_0120.png
+
+----
+
+Video: 
+
+----
+
+Subtitle: Le Journal des Entreprises
+
+----
+
+Description: Développement de la version tablette et mobile du journal.
+
+----
+
+Tags: ergonomie mobile first, integration css3
+
+----
+
+Urlsite: 
+
+----
+
+Annee: 
+
+----
+
+Seo: Mise en page responsive du journal JDE intégration html5

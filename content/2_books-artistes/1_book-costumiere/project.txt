@@ -1,0 +1,72 @@
+Title: Book costumière
+
+----
+
+Seo-tags: 
+
+----
+
+Togglehome: true
+
+----
+
+Category: 
+
+----
+
+Images-projet:
+
+- 001.jpg
+- 002.jpg
+- 003.jpg
+- 000.jpg
+
+----
+
+Video:
+
+- maga.mp4
+
+----
+
+Subtitle: Book - Costumière
+
+----
+
+Objectif: Création d'un site portfolio - Costumière de théatre
+
+----
+
+Description: Webdesign et back-office sur-mesure.
+
+----
+
+Urlsite: http://magali-castellan.com/
+
+----
+
+Contexte: Magali Castellan, costumière présente à travers son portfolio ses différentes réalisations pour le théatre et l'opéra.
+
+----
+
+Realisation: J'ai créé le webdesign du site et le template wordpress sur mesure.
+
+----
+
+Tags: Parallax, Animation css, template sur-mesure
+
+----
+
+Role: 
+
+----
+
+Annee: 2018
+
+----
+
+Seo: 
+
+----
+
+Solutions: 

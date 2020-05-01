@@ -1,0 +1,13 @@
+title: Video
+
+accept:
+  mime: video/mp4
+  maxsize: 20000000 # size in byte = 20 MB
+
+sections:
+
+  infos:
+    type: info
+    headline: Informations
+    text: |
+      Cliquez sur l'image, l'information url, ou le boutton "ouvrir" ci-dessus pour accéder au document et à son adresse url

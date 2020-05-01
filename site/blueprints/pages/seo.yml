@@ -1,0 +1,27 @@
+title: seo
+icon: attachment
+num: 5
+
+status:
+    draft: Brouillon
+    listed: Publié
+
+options:
+  delete: true
+  changeStatus: true
+  changeSlug: true
+  changeTitle: true
+  duplicate: true
+  url: true
+
+fields:
+  text:
+    label: Texte
+    type: textarea
+    size: small
+    buttons:
+      - bold
+      - italic
+      - link
+      - email
+    required: false

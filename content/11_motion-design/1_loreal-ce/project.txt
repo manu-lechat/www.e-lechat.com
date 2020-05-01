@@ -1,0 +1,61 @@
+Title: loreal ce
+
+----
+
+Seo-tags: animation vidéo Motion-design, animation réalisée sous after-effect
+
+----
+
+Togglehome: false
+
+----
+
+Category: 
+
+----
+
+Images-projet:
+
+- poster.png
+
+----
+
+Video:
+
+- loreal_ce.mp4
+
+----
+
+Subtitle: L'Oréal CE
+
+----
+
+Objectif: Animation d'une infographie vidéo.
+
+----
+
+Description: Storyboard, design et animation After-Effect
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: Dans le cadre de sa communication interne L'oréal souhaite réaliser une infographie Vidéo. Le design de cette animation a été réalisée par Sylvain Quenderff.
+
+----
+
+Realisation: J'ai réalisé l'animation au format vidéo vertical sous After effect
+
+----
+
+Tags: animation vidéo, ecran vertical, after-effect
+
+----
+
+Annee: 2017
+
+----
+
+Seo: 

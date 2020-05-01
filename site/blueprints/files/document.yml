@@ -1,0 +1,13 @@
+title: Document
+
+accept:
+  mime: application/zip, application/x-bzip, application/x-bzip2, application/x-tar, application/x-7z-compressed, application/pdf, image/gif, image/jpeg, image/jpg, image/png
+  maxsize: 20000000 # size in byte = 20 MB
+
+sections:
+
+  infos:
+    type: info
+    headline: Informations
+    text: |
+      Cliquez sur l'image, l'information url, ou le boutton "ouvrir" ci-dessus pour accéder au document et à son adresse url

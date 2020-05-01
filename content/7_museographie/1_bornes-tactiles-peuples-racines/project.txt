@@ -1,0 +1,65 @@
+Title: Bornes Tactiles «Peuples Racines»
+
+----
+
+Seo-tags: programmation Flash AS3, borne tactile d'exposition
+
+----
+
+Togglehome: true
+
+----
+
+Category: borne
+
+----
+
+Images-projet:
+
+- poster.jpg
+
+----
+
+Video:
+
+- peuples_racines.mp4
+
+----
+
+Subtitle: Bornes de l'exposition «Peuples Racines»
+
+----
+
+Objectif: Réalisation d'une borne tactile pour une exposition temporaire
+
+----
+
+Description: Programmation Flash. Moteur de rendu 3D pour l'animation du globe terrestre. Conception graphique réalisée par KEROZEN Studio.
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: Dans le cadre d'une exposition aux "Champs-libres" de Rennes. L'agence Kerozen a réalisé le design d'une borne tactile présentant les témoignages de peuple de la terre. J'ai été chargé de créer l'interface interactive.
+
+----
+
+Realisation: Programmation en Flash de cette application Off-line. Moteur 3d de rendu du globe terrestre, players vidéo. Programmation AS3
+
+----
+
+Tags: Programmation Flash AS3, borne tactile d'exposition, muséographie
+
+----
+
+Annee: 2012
+
+----
+
+Seo: 
+
+----
+
+Solutions: 

@@ -1,0 +1,106 @@
+title: Project
+
+
+status:
+    draft: Brouillon
+    listed: Publié
+
+options:
+  delete: true
+  changeStatus: true
+  changeSlug: true
+  changeTitle: true
+  duplicate: true
+  url: true
+
+columns:
+
+
+  - width: 1/3
+
+    fields:
+
+      seo_tags:
+        label: Mots clés pour le référencement
+        type: tags
+
+      toggleHome:
+        label: Toggle
+        type: toggle
+        text: Include in homepage ?
+
+      category:
+        label: Screen
+        type: select
+        default: imac
+        options:
+          imac: imac
+          macbook: macbook
+          ipad: ipad
+          borne: borne
+
+      images_projet:
+        type: files
+        required: false
+        layout: list
+        template: images
+        info: "{{ file.dimensions }}"
+        image:
+          ratio: 16/9
+          cover: true
+          back: black
+        size: small
+
+
+      video:
+        icon: video
+        type: files
+        required: false
+        layout: cards
+        info: "{{ file.dimensions }}"
+        multiple: false
+
+
+
+  - width: 2/3
+
+    fields:
+      subtitle:
+        label: Subtitle
+        type: text
+        required: false
+
+      objectif:
+        label: objectif
+        type: text
+        required: false
+
+      description:
+        label: description
+        type: textarea
+        required: false
+        width: 1/2
+        buttons: false
+
+      urlsite:
+        label: url
+        required: false
+        type: url
+        width: 1/2
+
+      contexte:
+        label: contexte
+        type: textarea
+        required: false
+        width: 1
+
+      realisation:
+        label: réalisation
+        type: textarea
+        required: false
+        width: 1
+
+      tags:
+        label: Tags
+        type: tags
+        width: 1

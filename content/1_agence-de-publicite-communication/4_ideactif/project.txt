@@ -1,0 +1,71 @@
+Title: Ideactif
+
+----
+
+Seo-tags: 
+
+----
+
+Togglehome: true
+
+----
+
+Category: 
+
+----
+
+Images-projet:
+
+- 001.jpg
+- 004.jpg
+- 002.jpg
+- 003.jpg
+- 005.jpg
+
+----
+
+Video: 
+
+----
+
+Subtitle: Agence evenementielle
+
+----
+
+Objectif: Réaliser le site d'une agence événementielle.
+
+----
+
+Description: Réalisation d'un template sur-mesure.
+
+----
+
+Urlsite: http://www.ideactif.com
+
+----
+
+Contexte: L'agence Ideactif scénarise des événements pour valoriser la communication de leurs clients. A travers leur  site, ils souhaitent présenter leurs actions, leur démarche et leur identité de marque.
+
+----
+
+Realisation: Sur la base d'une maquette graphique Skech, détaillée et sur une base Node.js, j'ai réalisé le développement front-end du projet.
+
+----
+
+Tags: integration html5, animation css, interactivité javascript
+
+----
+
+Role: 
+
+----
+
+Annee: 2017
+
+----
+
+Seo: 
+
+----
+
+Solutions: 

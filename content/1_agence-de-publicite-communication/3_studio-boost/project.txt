@@ -1,0 +1,65 @@
+Title: Studio Boost
+
+----
+
+Seo-tags: 
+
+----
+
+Togglehome: true
+
+----
+
+Category: imac
+
+----
+
+Images-projet:
+
+- poster.jpg
+
+----
+
+Video:
+
+- studioboost.mp4
+
+----
+
+Subtitle: Agence de design - Studio Boost
+
+----
+
+Objectif: Créer le site Internet d'un studio de design produit.
+
+----
+
+Description: Design réalisé par "Antonin + Margaux", développement du site en collaboration avec Dorian Simeha.
+
+----
+
+Urlsite: https://studioboost.fr/
+
+----
+
+Contexte: Studio Boost est une agence de design basée à Nantes et spécialisée dans le design de jouets. Ils ont confié à Antonin+Margaux la conception de leur nouvelle identité graphique et de leur nouveau site web.
+
+----
+
+Realisation: Sur la base de la maquette graphique et en collaboration avec Dorian Simeha, nous avons réalisé le développement front-end et back-end du projet. Mise en page responsive, transition animée entre les différentes pages via le plugin barba.js.
+
+----
+
+Tags: design ludique, site responsive, transitions barba.js
+
+----
+
+Role: 
+
+----
+
+Annee: 2019
+
+----
+
+Seo: Agence de design - Studio Boost

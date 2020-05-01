@@ -1,0 +1,20 @@
+title: Image
+
+accept: image/jpeg, image/gif, image/png, video/mp4 , video/x-m4v
+
+columns:
+
+  - width: 1/2
+    sections:
+      meta:
+        type: fields
+        required: false
+        fields:
+          alt:
+            label: Alt / description pour le référencement
+            type: text
+            help: Améliore le référencement et l'accessibilité
+          copyright:
+            label: Copyright
+            type: text
+            help: S'affiche sur l'image

@@ -1,0 +1,53 @@
+Title: Borne cartographie SFR
+
+----
+
+Seo-tags: 
+
+----
+
+Category: borne
+
+----
+
+Images-projet:
+
+- poster.jpg
+
+----
+
+Video:
+
+- sfr.mp4
+
+----
+
+Subtitle: Borne cartographie - SFR
+
+----
+
+Description: Design et développpement d'une interface tactile présentant l'infrastructure du réseau SFR
+
+----
+
+Tags: webdesign de l'interface, programmation Flash, ergonomie interface tactile
+
+----
+
+Urlsite: 
+
+----
+
+Annee: 2014
+
+----
+
+Seo: développement d'une cartographie interactive pour SFR
+
+----
+
+Contexte: 
+
+----
+
+Solutions: 

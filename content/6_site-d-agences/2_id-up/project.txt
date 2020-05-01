@@ -1,0 +1,72 @@
+Title: id-up
+
+----
+
+Seo-tags: site pour agence d'architecture et d'urbanisme, site internet pour agence d'architecture à nantes
+
+----
+
+Togglehome: false
+
+----
+
+Category: macbook
+
+----
+
+Images-projet:
+
+- 004.png
+- 002.png
+- 001.png
+- 003.png
+- 005.png
+- 006.png
+
+----
+
+Video: 
+
+----
+
+Subtitle: Agence Id-Up
+
+----
+
+Objectif: Céation du site d'une agence d'urbanisme
+
+----
+
+Description: En collaboration avec Samuel Jan et Dorian Simeha, nous avons réalisé une refonte globale du site Id-UP.org.
+
+----
+
+Urlsite: http://id-up.org/
+
+----
+
+Contexte: En collaboration avec Samuel Jan et Dorian Simeha, nous avons réalisé une refonte globale du site Id-UP.org.
+
+----
+
+Realisation: J'ai réalisé le développement front-end des ecrans présentant les projets de l'agence.
+
+----
+
+Tags: concept et stratégie, Integration Html5, animation Css
+
+----
+
+Annee: 2019
+
+----
+
+Solutions: 
+
+----
+
+Seo: réalisation de site pour une agence d'urbanisme
+
+----
+
+Cover: 

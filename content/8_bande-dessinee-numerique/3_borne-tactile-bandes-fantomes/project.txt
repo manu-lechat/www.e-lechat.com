@@ -1,0 +1,85 @@
+Title: Borne tactile  «Bandes Fantômes»
+
+----
+
+Seo-tags: bande dessinée numérique
+
+----
+
+Togglehome: true
+
+----
+
+Category: borne
+
+----
+
+Images-projet:
+
+- 001.jpg
+- 002.jpg
+- 003.jpg
+- 004.jpg
+- 006.jpg
+- 007.jpg
+- 005.jpg
+
+----
+
+Video: 
+
+----
+
+Subtitle: BD numérique
+
+----
+
+Objectif: Borne tactile de l'Exposition.
+
+----
+
+Description: Présentée dans le cadre d'une exposition au festival Pulp, cette borne tactile présente des milliers de planches de BD n'aillant jamais été publiées.
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: Présentée dans le cadre d'une exposition au festival Pulp, cette borne tactile présente des milliers de planches de BD n'aillant jamais été publiées.
+
+----
+
+Realisation: J'ai conçu le design et l'ergonomie de cette borne tactile conçue pour héberger un grand volume de contenus visuels. Optimisation de l'usage tactile grace à l'usage de scroll des pages horizontalement. Base de données MySql et Php pour la gestion des contenus.
+
+----
+
+Tags: design graphique, programmation php, programmation de l'interface tactile
+
+----
+
+Annee: 2015
+
+----
+
+Seo: 
+
+----
+
+Solutions: 
+
+----
+
+Images: 
+
+----
+
+Cover: - 001.jpg
+
+----
+
+Previewfiles: 
+
+----
+
+Url-key: 

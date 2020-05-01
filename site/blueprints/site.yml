@@ -1,0 +1,155 @@
+title: Site
+
+tabs:
+
+  tableau-de-bord: #tab
+    label: Contenus du site
+    icon: dashboard
+    columns:
+
+      - width: 1/3
+        sections:
+          main_pages:
+            headline: Pages
+            type: pages
+            status: all
+            image: false
+            templates:
+              - about
+              - contact
+              - referencement
+
+      - width: 2/3
+        sections:
+          projects:
+            type: pages
+            status: all
+            image: false
+            templates:
+              - projects
+
+
+  seo: #tab
+    label: SEO
+    icon: cog
+    columns:
+
+      - width: 1/3
+        fields:
+          seo_tags:
+            label: Mots clés pour le référencement global du site
+            type: tags
+            help: Phrases ou mots correspondant à ce qu'un utilisateur pourrait taper dans un moteur de recherche pour trouver cette page.
+
+      - width: 2/3
+        sections:
+          seo_listing:
+            headline: Pages
+            type: pages
+            status: all
+            image: false
+            templates:
+              - seo_listing
+
+
+  config: #tab
+    label: Configuration du site
+    icon: cog
+
+    columns:
+
+      - width: 1/3
+        sections:
+
+        fields:
+
+          title1:
+            label: Config globale
+            type: headline
+
+
+          subtitle:
+            label: subtitle
+            type: text
+
+
+
+          main_mail:
+              label: Email de contact
+              type: text
+              required: false
+              type: url
+          Link1:
+              label: Facebook
+              type: text
+              required: false
+              type: url
+          Link2:
+              label: Instagram
+              type: text
+              required: false
+              type: url
+          Link3:
+              label: Pinterest
+              type: text
+              required: false
+              type: url
+          linked-In:
+              label: Linked-in
+              type: text
+              required: false
+              type: url
+
+
+
+      - width: 1/3
+        sections:
+
+        fields:
+
+
+
+          title3:
+            label: Mode maintenance
+            type: headline
+
+
+          maintenance:
+            label: Mode maintenance
+            text: Mettre en site en veille
+            width: 1/3
+            type: toggle
+
+          maintenance_txt:
+            width: 2/3
+            label: message maintenance
+            type:  text
+
+
+
+      - width: 1/3
+        sections:
+
+        fields:
+
+
+          title4:
+            label: Référencement
+            type: headline
+
+
+          meta_description:
+            label: Texte balise Meta description
+            type: textarea
+            buttons: false
+            maxlength: 160
+            required: false
+            width: 1/2
+            help:  Description pour les résultats google et les partages
+
+          share_image:
+            label: Image pour les liens de partage
+            type: files
+            max: 1
+            layout: list
+            help: Image s'affichant lors d'un partage facebook ou autre

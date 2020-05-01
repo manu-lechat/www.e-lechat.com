@@ -1,0 +1,61 @@
+Title: Voeux agence parisienne du climat
+
+----
+
+Seo-tags: réalisation d'une carte de voeux interactive, animation html5 webgl, animation slider css
+
+----
+
+Togglehome: true
+
+----
+
+Category: 
+
+----
+
+Images-projet:
+
+- capture-d-ecran-2019-11-13-15.42.09.png
+
+----
+
+Video:
+
+- voeux_apc_3.mp4
+
+----
+
+Subtitle: Voeux agence parisienne du climat
+
+----
+
+Objectif: Créer une carte de voeux intercative
+
+----
+
+Description: Animation interactive : typo et design génératif en webgl
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: Pour réduire son utilisation du papier, l'agence Parisienne du Climat utilise le support numérique pour communiquer ses voeux auprès de son réseau de partenaires et collaborateurs.
+
+----
+
+Realisation: Sur la base d'un design génératif en processing utiilisé comme trame de fond abstraite, j'ai réalisé une animation du message de l'Agence Parisienne du Climat.
+
+----
+
+Tags: Programmation de design génératif, Processing et librairie P5.js
+
+----
+
+Annee: 2017
+
+----
+
+Seo: Carte de voeux interactive

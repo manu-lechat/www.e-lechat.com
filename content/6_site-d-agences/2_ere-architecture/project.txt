@@ -1,0 +1,76 @@
+Title: Ere architecture
+
+----
+
+Seo-tags: site d'architecte, réalisation de site sur-mesure, création d'un site d'archiecte
+
+----
+
+Togglehome: true
+
+----
+
+Category: macbook
+
+----
+
+Images-projet:
+
+- 008.jpg
+- 009.jpg
+- 003.jpg
+- 002.jpg
+- 004.jpg
+- 007.jpg
+
+----
+
+Video: 
+
+----
+
+Subtitle: Agence d'architecture
+
+----
+
+Objectif: Réalisation du site d'une agence d'architecture
+
+----
+
+Description: Développement Html - Css du portfolio de l'agence. DA réalisée par Arnaud Buzulier. Cms réalisé par Gildas p.
+
+----
+
+Urlsite: https://www.erearchitecture.fr
+
+----
+
+Contexte: Pour une agence d'Architecture, l'art et la manière de présenter ses réalisations est un enjeux commercial majeur. Projet réalisé en collaboration avec Arnaud Buzulier pour le graphisme et Gildas Paubert pour le développement back-end.
+
+----
+
+Realisation: J'ai réalisé la mise en page front-end du projet, avec un effort porté sur l'animation css et le référencement.
+
+----
+
+Tags: integration Html5, référencement, animations Css
+
+----
+
+Annee: 2017
+
+----
+
+Solutions: 
+
+----
+
+Seo: site d'architecte
+
+----
+
+Cover: - home_1.jpg
+
+----
+
+Images: - home_1.jpg

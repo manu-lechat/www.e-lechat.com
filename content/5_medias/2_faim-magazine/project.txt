@@ -1,0 +1,62 @@
+Title: Faim magazine
+
+----
+
+Seo-tags: mis en page responsive, template sur-mesure, graphisme hypster, hypster life magazine
+
+----
+
+Togglehome: false
+
+----
+
+Category: macbook
+
+----
+
+Images-projet:
+
+- 1.jpg
+- 2.jpg
+- 4.jpg
+- 5.jpg
+
+----
+
+Video: 
+
+----
+
+Subtitle: Faim magazine
+
+----
+
+Objectif: Mise en page d'un web-magazine.
+
+----
+
+Description: Intégration html5 des pages du magazine.
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: Faim Magazine est un journal de tendances urbaines. Le site internet présente le magazine et les offres d'abonnement.
+
+----
+
+Realisation: J'ai réalisé la mise en page responsive des différents templates du site.
+
+----
+
+Tags: mise en page magazine en ligne, presse numérique, nouveaux médias
+
+----
+
+Annee: 2019
+
+----
+
+Seo: 

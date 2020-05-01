@@ -1,0 +1,80 @@
+Title: Manu Lechat - Webdesigner - Développeur web - freelance
+
+----
+
+Seo-tags: nantes, vannes, Morbihan, réalisation d'un site internet, intégrateur, freelance, portfolio développeur front end, developpeur freelance nantes, développeur web freelance, freelance wordpress nantes, développeur web freelance nantes, integrateur wordpress, portfolio web designer, freelance php nantes, developpeur freelance, webdesigner freelance nantes, développeur web indépendant finistère, développeur web freelance à rennes, freelance html5, développeur web nantes, développeur web indépendant bretagne, webdesigner rennes, webdesigner vannes, webdesigner morbihan, développeur wordpress nantes, développeur wordpress vannes, intégrateur web freelance, freelance developpeur front end, site responsive html5 sur mesure, agence motion design nantes, webdesign animation, graphiste wordpress nantes, graphiste wordpress vannes, graphiste wordpress la roche bernard, webdesigner bretagne, freelance css3, book webdesigner, freelance developpeur web, globe terrestre 3d animation, agence creation de bannieres html5, portfolio web developpeur, front end freelance, carte de voeux after effect, intégrateur web freelance tarif, portfolio html5, cv développeur front end, template carte de voeux after effect, flip book en ligne, web designer animation, studio graphique vannes, web developer freelance portfolio, infographiste freelance nantes, infographiste freelance morbihan, infographiste freelance vannes, webdesigner, développeur front-end
+
+----
+
+Subtitle: Retour au portfolio
+
+----
+
+Main-mail: 
+
+----
+
+Link1: 
+
+----
+
+Link2: 
+
+----
+
+Link3: 
+
+----
+
+Linked-in: 
+
+----
+
+Maintenance: false
+
+----
+
+Maintenance-txt: SITE EN [RE]CONSTRUCTION
+
+----
+
+Meta-description: ⭐⭐⭐ Webdesigner - Intégrateur Front-end - Freelance [ +10 ans d'expérience ]
+
+----
+
+Share-image:
+
+- signature-carre.png
+
+----
+
+Categories:
+
+- 
+  category: test 1
+- 
+  category: test 2
+
+----
+
+Projets: 
+
+----
+
+Analytics: 
+
+----
+
+Toggle: true
+
+----
+
+Titre-site: Webdesigner, integrateur freelance, Nantes - Vannes
+
+----
+
+Seo: Webdesigner, integrateur freelance, Nantes - Vannes
+
+----
+
+Mode-veille: true

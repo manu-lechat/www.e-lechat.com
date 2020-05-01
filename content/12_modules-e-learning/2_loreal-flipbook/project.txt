@@ -1,0 +1,61 @@
+Title: Loreal flipBook
+
+----
+
+Seo-tags: flipbook html5, e-learning
+
+----
+
+Togglehome: true
+
+----
+
+Category: ipad
+
+----
+
+Images-projet:
+
+- poster.jpg
+
+----
+
+Video:
+
+- lancome.mp4
+
+----
+
+Subtitle: Flipbook - L'Oreal
+
+----
+
+Objectif: Création d'un module e-learning au format flipbook
+
+----
+
+Description: Module d'e-learning au format Flipbook. Communication interne destiné à la formation des employés de la marque.
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: L'Oréal a besoin de communiquer un grand volume d'information à ses équipes internationales.
+
+----
+
+Realisation: Via un logiciel de publication de flipbook au format Html5, integration d'un grand volume de
+
+----
+
+Tags: flipbook, lancome, html5
+
+----
+
+Annee: 2018
+
+----
+
+Seo: 

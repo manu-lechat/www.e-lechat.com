@@ -1,0 +1,71 @@
+Title: salon des bonus
+
+----
+
+Seo-tags: 
+
+----
+
+Togglehome: true
+
+----
+
+Category: borne
+
+----
+
+Images-projet:
+
+- 031-page-item.jpg
+- 01-page-d-accueil.jpg
+- 041-page-contenu_video.jpg
+- 032-page-item-commentaires.jpg
+- 02-page-volet.jpg
+
+----
+
+Video: 
+
+----
+
+Subtitle: Interface VOD
+
+----
+
+Objectif: Réaliser une interface de VOD au sein d'un cinéma.
+
+----
+
+Description: En collaboration avec Addictive web :  réalisation d'un dispositif de visionnage de vidéos à la demande au sein de la Ferme du Buisson, scène nationale. Conception  de l'ergonomie, Design et integration Html.
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: La ferme du buisson a souhaité développer pour son cinéma un espace de consultation de fichiers multimédias en lien avec sa programmation.
+
+----
+
+Realisation: En collaboration avec les développeurs de l'agence "Addictive web", j'ai réalisé l'ergonomie et le webdesign du projet. J'ai réalisé le développement front-end du projet sur une base de sliders horizontaux.
+
+----
+
+Tags: ergonomie d'interface tactile, bornes tactiles, VOD
+
+----
+
+Role: 
+
+----
+
+Annee: 2015
+
+----
+
+Solutions: 
+
+----
+
+Seo: 

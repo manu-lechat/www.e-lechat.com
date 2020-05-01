@@ -1,0 +1,61 @@
+Title: Le Télégramme
+
+----
+
+Seo-tags: le télégramme de brest, mise en page responsive du journal
+
+----
+
+Togglehome: true
+
+----
+
+Category: macbook
+
+----
+
+Images-projet:
+
+- poster.jpg
+
+----
+
+Video:
+
+- le_telegramme.mp4
+
+----
+
+Subtitle: Journal Le Télégramme
+
+----
+
+Objectif: développement front-end d'un site presse
+
+----
+
+Description: En relation étroite avec le journal, j'ai réalisé le développement Html Css JS du journal lors de son passage au responsive. Design signé Arnaud Buzulier.
+
+----
+
+Urlsite: https://www.letelegramme.fr/
+
+----
+
+Contexte: Le Télégramme est un quotidien couvrant l'actualité de la Bretagne. Lors du passage de leur plateforme web en responsive, ils m'ont confié le développement front-end du projet.
+
+----
+
+Realisation: En collaboration avec le DA du projet : Arnaud Buzulier, nous avons réalisé un travail d'optimisation de l'ergonomie de l'interface en phase avec le passage en responsive. J'ai réalisé tout l'intégration front-end des pages avec un soin particulier sur l'accéssibilité.
+
+----
+
+Tags: Mise en page responsive du journal, Site accessible aux mal-voyants, Optimisation du code source
+
+----
+
+Annee: 2014
+
+----
+
+Seo: Mise en page responsive du journal Le Télégramme. intégration html5

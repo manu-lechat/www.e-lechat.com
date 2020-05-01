@@ -1,0 +1,33 @@
+title: about
+icon: globe
+num: 1
+
+options:
+  delete: true
+  changeStatus: true
+  changeSlug: true
+  changeTitle: true
+  duplicate: true
+  url: true
+
+fields:
+  text1:
+    label: Texte 1
+    type: textarea
+    size: large
+    buttons:
+      - bold
+      - italic
+      - link
+      - email
+    required: true
+  text2:
+    label: Texte 2
+    type: textarea
+    size: large
+    buttons:
+      - bold
+      - italic
+      - link
+      - email
+    required: true

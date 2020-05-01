@@ -1,0 +1,69 @@
+Title: BrainBow
+
+----
+
+Seo-tags: 
+
+----
+
+Togglehome: true
+
+----
+
+Category: 
+
+----
+
+Images-projet:
+
+- 001.jpg
+- 003.jpg
+- 002.jpg
+
+----
+
+Video: 
+
+----
+
+Subtitle: Book - sound-designer
+
+----
+
+Objectif: Braindow - Musicien compositeur.
+
+----
+
+Description: Webdesign et développement du site du compositeur "The Brainbow" présentant le projet "Dusk" à travers des extraits de compositions.
+
+----
+
+Urlsite: http://thebrainbow.com/
+
+----
+
+Contexte: Webdesign et développement du site du compositeur "The Brainbow" présentant le projet "Dusk" à travers des extraits de compositions.
+
+----
+
+Realisation: Webdesign minimal sur la base d'une intro vidéo et d'un player audio.
+
+----
+
+Tags: Immersion sonore, book de musicien
+
+----
+
+Role: 
+
+----
+
+Annee: 2019
+
+----
+
+Seo: 
+
+----
+
+Solutions: 

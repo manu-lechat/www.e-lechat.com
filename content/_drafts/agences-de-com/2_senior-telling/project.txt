@@ -1,0 +1,68 @@
+Title: senior_telling
+
+----
+
+Seo-tags: 
+
+----
+
+Togglehome: false
+
+----
+
+Category: 
+
+----
+
+Images-projet:
+
+- poster.jpg
+
+----
+
+Video:
+
+- senior_telling.mp4
+
+----
+
+Subtitle: Agence The Links - senior-telling
+
+----
+
+Objectif: Intégration Front-end.
+
+----
+
+Description:
+
+Réalisation du template sur-mesure.
+Design : agence The Links
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: L'agence The Links s'adresse à un publique Sénior.
+
+----
+
+Realisation: Integration front-end du site sur un principe de slides verticales et horizontale.
+
+----
+
+Tags: responsive, multi-scroll, animations css
+
+----
+
+Annee: 2016
+
+----
+
+Seo: 
+
+----
+
+Solutions: 

@@ -1,0 +1,68 @@
+Title: Jolis flots
+
+----
+
+Seo-tags: 
+
+----
+
+Togglehome: false
+
+----
+
+Category: ipad
+
+----
+
+Images-projet:
+
+- capture-decran-2019-11-13-a-20.57.52.png
+- capture-decran-2019-11-13-a-20.58.00.png
+- capture-decran-2019-11-13-a-20.58.07.png
+- capture-decran-2019-11-13-a-20.59.57.png
+- capture-decran-2019-11-13-a-20.58.58.png
+- capture-decran-2019-11-13-a-20.58.46.png
+
+----
+
+Video: 
+
+----
+
+Subtitle: Jolis Flots - BD Numérique
+
+----
+
+Objectif: Créer un récit sonore et animé.
+
+----
+
+Description: Au sein de la revue "Professeur cyclope", integration sur-mesure de cette histoire signée Cyrill Pedrosa. Conte animé et sonorisé.
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: Au sein de la revue "Professeur cyclope", Cyrill Pedrosa a illustré un récit animé.
+
+----
+
+Realisation: J'ai réalisé l'integration de l'histoire à travers un jeu de cases animées en javascript Html et css.
+
+----
+
+Tags: animations css, illustrations interactives, sonorisation
+
+----
+
+Annee: 
+
+----
+
+Seo: 
+
+----
+
+Solutions: 

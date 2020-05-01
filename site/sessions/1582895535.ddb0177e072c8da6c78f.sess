@@ -1,0 +1,2 @@
+569bb40e883f3271bd300d0293c7fcc1d05b00caa01a5cd05feb05ef8b8650b8
+a:7:{s:9:"startTime";i:1582881027;s:10:"expiryTime";i:1582895535;s:8:"duration";i:7200;s:7:"timeout";i:1800;s:12:"lastActivity";i:1582889118;s:9:"renewable";b:1;s:4:"data";a:2:{s:4:"csrf";s:64:"5f3ae7723d7eb9031881cf674f07469f325c21cfd9ecc911f71f9544be62600b";s:7:"user.id";s:8:"TxMgsEyt";}}

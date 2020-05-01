@@ -1,0 +1,255 @@
+title: Agence
+icon: globe
+num: 1
+
+options:
+  delete: true
+  changeStatus: true
+  changeSlug: true
+  changeTitle: true
+  duplicate: true
+  url: true
+
+tabs:
+
+  animation: #tab
+    label: Animation
+    icon: refresh
+    fields:
+      animation:
+        label: Items animation
+        type: builder
+        columns: 4
+        max: 6
+        fieldsets:
+          animation_block:
+            label: Item animation
+            fields:
+              text:
+                label: Texte
+                type: textarea
+                maxlength: 50
+                required: true
+                buttons:
+                  - italic
+
+  missions: #tab
+    label: Métiers
+    icon: loader
+    columns:
+      - width: 1/4
+        sections:
+          assignments_fields_section:
+            type: fields
+            fields:
+              assignments_cover:
+                label: Visuel(s) de la section
+                type: files
+                required: false
+                layout: cards
+                uploads:
+                  template: cover
+                query: page.images.filterBy('template', 'cover')
+                info: "{{ file.dimensions }}"
+                image:
+                  ratio: 16/9
+                  cover: true
+                  back: black
+                max: 5
+                size: small
+          files_section:
+            type: files
+            headline: Fichiers images
+            template: cover
+      - width: 3/4
+        fields:
+          assignments:
+            label: Items missions
+            type: builder
+            columns: 3
+            max: 5
+            fieldsets:
+              assignments_block:
+                label: Item mission
+                fields:
+                  title:
+                    label: Titre
+                    type: text
+                    required: true
+                  subtitle:
+                    label: Sous-titre
+                    type: text
+                    required: true
+                  text:
+                    label: Texte
+                    type: text
+
+  philosophie: #tab
+    label: Nos valeurs
+    icon: preview
+    columns:
+      - width: 1/4
+        sections:
+          philosophy_fields_section:
+            type: fields
+            fields:
+              philosophy_cover:
+                label: Visuel(s) de la section
+                type: files
+                required: false
+                layout: cards
+                uploads:
+                  template: cover
+                query: page.images.filterBy('template', 'cover')
+                info: "{{ file.dimensions }}"
+                image:
+                  ratio: 16/9
+                  cover: true
+                  back: black
+                max: 5
+                size: small
+          files_section:
+            type: files
+            headline: Fichiers images
+            template: cover
+      - width: 3/4
+        fields:
+          philosophy:
+            label: Items philosophie
+            type: builder
+            columns: 3
+            max: 3
+            fieldsets:
+              philosophy_block:
+                label: Item philosophie
+                fields:
+                  title:
+                    label: Titre
+                    type: text
+                    required: true
+                  text:
+                    label: Texte
+                    type: textarea
+                    maxlength: 200
+                    buttons: false
+                    required: true
+
+  parcours: #tab
+    label: Parcours
+    icon: clock
+    columns:
+      - width: 1/4
+        sections:
+          journey_fields_section:
+            type: fields
+            fields:
+              journey_cover:
+                label: Visuel(s) de la section
+                type: files
+                required: false
+                layout: cards
+                uploads:
+                  template: cover
+                query: page.images.filterBy('template', 'cover')
+                info: "{{ file.dimensions }}"
+                image:
+                  ratio: 16/9
+                  cover: true
+                  back: black
+                max: 5
+                size: small
+          files_section:
+            type: files
+            headline: Fichiers images
+            template: cover
+      - width: 3/4
+        fields:
+          journey:
+            label: Items parcours
+            type: builder
+            columns: 3
+            fieldsets:
+              journey_block:
+                label: Item parcours
+                fields:
+                  date:
+                    label: Année
+                    type: text
+                    required: true
+                    maxlength: 4
+                  text:
+                    label: Texte
+                    type: textarea
+                    maxlength: 200
+                    required: true
+                    buttons:
+                      - italic
+                      - bold
+
+  equipe: #tab
+    label: Équipe
+    icon: users
+    columns:
+      - width: 1/4
+        sections:
+          team_fields_section:
+            type: fields
+            fields:
+              team_cover:
+                label: Visuel(s) de la section
+                type: files
+                required: false
+                layout: cards
+                uploads:
+                  template: cover
+                query: page.images.filterBy('template', 'cover')
+                info: "{{ file.dimensions }}"
+                image:
+                  ratio: 16/9
+                  cover: true
+                  back: black
+                max: 5
+                size: small
+          files_section:
+            type: files
+            headline: Fichiers images
+            template: cover
+          members_section:
+            type: files
+            headline: Photos des membres
+            template: team
+      - width: 3/4
+        fields:
+          team:
+            label: Membres de l'équipe
+            type: builder
+            columns: 3
+            fieldsets:
+              team_block:
+                label: Membre de l'équipe
+                fields:
+                  title:
+                    label: Nom
+                    type: text
+                    required: true
+                  text:
+                    label: Fonction
+                    type: textarea
+                    maxlength: 100
+                    buttons: false
+                    required: true
+                  member_picture:
+                    label: Photo du membre
+                    type: files
+                    required: false
+                    layout: cards
+                    uploads:
+                      template: team
+                    query: page.images.filterBy('template', 'team')
+                    info: "{{ file.dimensions }}"
+                    image:
+                      ratio: 16/9
+                      cover: true
+                      back: black
+                    max: 1
+                    size: small

@@ -1,0 +1,61 @@
+Title: Voeux Samsic
+
+----
+
+Seo-tags: carte de voeux interactive, animation webgl, particules 3d three.js
+
+----
+
+Togglehome: true
+
+----
+
+Category: imac
+
+----
+
+Images-projet:
+
+- poster.jpg
+
+----
+
+Video:
+
+- voeux_samsic.mp4
+
+----
+
+Subtitle: voeux Samsic
+
+----
+
+Objectif: Créer une carte de voeux numérique.
+
+----
+
+Description: Animation de carte de voeux interactive : typo et design génératif en webgl.
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: Le groupe Samsic souhaite utiliser le format numérique pour communiquer ses voeux de bonnes années à ses très nombreux partenaires et collaborateurs. Déclinaison des couleurs et motifs en quatre versions pour les différentes filiales du groupe.
+
+----
+
+Realisation: J'ai réalisé la conception graphique et le programmation du projet, su la base d'un jeu de particules animées en 3D via le framework javascript 3D three.js. Publication en Webgl fluide et interactive.
+
+----
+
+Tags: Programmation javascript 3D, Carte de voeux interactive, Un peu de trigonométrie
+
+----
+
+Annee: 2017
+
+----
+
+Seo: Carte de voeux interactive

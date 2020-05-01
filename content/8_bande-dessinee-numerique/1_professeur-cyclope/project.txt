@@ -1,0 +1,78 @@
+Title: Professeur cyclope
+
+----
+
+Seo-tags: professeur cyclope, bd numérique
+
+----
+
+Togglehome: true
+
+----
+
+Category: ipad
+
+----
+
+Images-projet:
+
+- sommaire.png
+- 2.gif
+- 4.gif
+- 1.gif
+- 8.gif
+- 7.gif
+- 9.gif
+- 10.gif
+- 11.gif
+- 13.gif
+- 16.gif
+- 17.gif
+- 18.gif
+- 20.gif
+
+----
+
+Video:
+
+- cyclope.mp4
+
+----
+
+Subtitle: Professeur Cyclope
+
+----
+
+Objectif: Magazine de bande-dessinée numérique
+
+----
+
+Description: Au sein de l'équipe de Professeur Cyclope, j'ai réalisé pendant un an l'intégration des numéros de ce mensuel de BD numérique haut en couleurs.
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: Au sein de l'équipe de Professeur Cyclope, j'ai réalisé pendant un an l'intégration des numéros de ce mensuel de BD numérique.
+
+----
+
+Realisation: Intégrateur front-end au sein du magazine, j'ai pu participer à l'exploration des possibilités offerte par les collaborations avec les auteurs de bande-dessinées, en cherchant de nouveaux modèles de récits incluant animations, turbomédias, sonorisations ... et humour décalé.
+
+----
+
+Tags: Bande dessinée numérique, Intégration des contenus du magazine, turbomédia
+
+----
+
+Annee: 2016
+
+----
+
+Seo: professeur cyclope - web-app html5 à Nantes - Bd numérique
+
+----
+
+Solutions: 

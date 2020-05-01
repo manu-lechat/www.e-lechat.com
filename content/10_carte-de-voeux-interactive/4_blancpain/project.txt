@@ -1,0 +1,61 @@
+Title: blancpain
+
+----
+
+Seo-tags: animation javascript d'une montre tweenmax
+
+----
+
+Togglehome: false
+
+----
+
+Category: 
+
+----
+
+Images-projet:
+
+- poster.jpg
+
+----
+
+Video:
+
+- blancpain.mp4
+
+----
+
+Subtitle: Animation interactive Blancpain
+
+----
+
+Objectif: Création d'une animation Javascript
+
+----
+
+Description: Mise en avant du produit à travers une animation interactive
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: La marque Blancpain présente un nouveau modèle à travers une animation interactive.
+
+----
+
+Realisation: Programmation Javascript de l'animation des aiguilles de la montre.
+
+----
+
+Tags: animation javascript, Présentation produit
+
+----
+
+Annee: 
+
+----
+
+Seo: Carte de voeux interactive

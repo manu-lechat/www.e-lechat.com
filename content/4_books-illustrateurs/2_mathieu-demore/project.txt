@@ -1,0 +1,62 @@
+Title: Mathieu Demore
+
+----
+
+Seo-tags: book en ligne, développeur front-end wordpress
+
+----
+
+Togglehome: true
+
+----
+
+Category: imac
+
+----
+
+Images-projet:
+
+- 004.jpg
+- 001.jpg
+- 003.jpg
+- 002.jpg
+
+----
+
+Video: 
+
+----
+
+Subtitle: Book Illustration - Mathieu Demore
+
+----
+
+Objectif: Création du portfolio d'un illustrateur.
+
+----
+
+Description: Site réalisé en collaboration avec Samuel Jan.
+
+----
+
+Urlsite: http://www.mathieudemore.com/
+
+----
+
+Contexte: Book de Mathieu Demore. Portfolio illustrateur jeunesse et bande dessinée.
+
+----
+
+Realisation: En collaboration avec Samuel Jan, j'ai réalisé la mise en page d'un template wordpress sur mesure pour ce book en ligne d'illustrateur. Utilisation du plugin Massonry pour la mise en page responsive de la mosaïque.
+
+----
+
+Tags: book illustration, wordpress
+
+----
+
+Annee: 
+
+----
+
+Seo: Book Illustration - Mathieu Demore

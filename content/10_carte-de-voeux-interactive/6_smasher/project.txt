@@ -1,0 +1,58 @@
+Title: smasher
+
+----
+
+Seo-tags: jeu Flash, campagne de pub html5, réalisation d'animations Flash
+
+----
+
+Togglehome: false
+
+----
+
+Category: imac
+
+----
+
+Images-projet:
+
+- 5.jpg
+- 2.jpg
+- 1.jpg
+- 3.jpg
+
+----
+
+Video: 
+
+----
+
+Subtitle: Jeux Flash - Smasher Game
+
+----
+
+Objectif: Réalisation d'un jeu Flash.
+
+----
+
+Description: programmation d'un jeux flash dans le cadre de la promotion d'un produit de la marque. webdesign réalisé par l'agence Kerozen.
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: Pour présenter une machine de laboratoire, AES a joué le jeu de l'humour en proposant à ses collaborateurs un concours sur la base du jeu vidéo conçu et dessiné par l'agence Kerozen, qui m'en a confié le développement.
+
+----
+
+Realisation: Programmation Flash AS3 du jeu avec interfaçage Php/Mysql pour l'enregistrement des scores en base de données.
+
+----
+
+Tags: programmation Flash, réalisation d'un jeu en ligne
+
+----
+
+Annee: 2012

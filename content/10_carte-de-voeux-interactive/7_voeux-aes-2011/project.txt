@@ -1,0 +1,61 @@
+Title: voeux aes 2011
+
+----
+
+Seo-tags: carte de voeux interactive, animation flash
+
+----
+
+Togglehome: false
+
+----
+
+Category: imac
+
+----
+
+Images-projet:
+
+- 001.jpg
+
+----
+
+Video:
+
+- 800x450_1.mp4
+
+----
+
+Subtitle: Voeux aes 2011
+
+----
+
+Objectif: création d'une carte de voeux interactive.
+
+----
+
+Description: Carte de voeux interactive
+
+----
+
+Urlsite: 
+
+----
+
+Contexte: AES Chemunex communique ses voeux au format Flash à travers une animation multilingue.
+
+----
+
+Realisation: Programmation Flash AS3 de l'animation des bulles.
+
+----
+
+Tags: Animation Flash, conception graphique, programmation
+
+----
+
+Annee: 2010
+
+----
+
+Seo: Carte de voeux interactive
