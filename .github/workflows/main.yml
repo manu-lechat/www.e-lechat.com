@@ -1,4 +1,4 @@
-name: OVH deploy
+name: OVH deploy.
 on:
   push:
     branches: [master]
