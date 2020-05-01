@@ -13,7 +13,7 @@ jobs:
         uses: garygrossgarten/github-action-scp@release
         with:
           local: .
-          remote: /home/elechatccn
+          remote: /home/elechatccn/www
           host: ftp.cluster021.hosting.ovh.net
           port: 21
           username: ${{ secrets.SFTP_USER }}
