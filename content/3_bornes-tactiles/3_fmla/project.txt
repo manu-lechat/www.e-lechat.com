@@ -1,0 +1,71 @@
+Title: FMLA
+
+----
+
+Seo-tags: Web application Showpad
+
+----
+
+Togglehome: true
+
+----
+
+Category: borne
+
+----
+
+Images-projet:
+
+- poster.jpg
+
+----
+
+Video:
+
+- fmla.mp4
+
+----
+
+Subtitle: Web application Showpad
+
+----
+
+Objectif: Réaliser un outil d'aide à la vente sous forme d'application showpad.
+
+----
+
+Description: Présentation du matériel au sein du workflow d'un labo. 3D by Jeanjean design.
+
+----
+
+Urlsite: 
+
+----
+
+Contexte:
+
+Showpad est une plateforme de distributil de contenus auprès des collaborateurs Biomèrieux. 
+J'ai développé une web-ap présentant les services et produits proposés par l'entreprise.
+
+----
+
+Realisation:
+
+Programmation Javascript et Css. 
+Mise en place de l'application en multilingue au sein de l'API Showpad.
+
+----
+
+Tags: ergonomie d'interface, animation css, Web-ap' Showpad
+
+----
+
+Annee: 
+
+----
+
+Solutions: 
+
+----
+
+Seo: 
