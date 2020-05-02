@@ -7,8 +7,8 @@ Icon
 # Temporary files
 # ---------------
 
-/media/*
-!/media/index.html
+/www/media/*
+!/www/media/index.html
 
 # Lock files
 # ---------------
@@ -21,21 +21,21 @@ Icon
 # Cache Files
 # ---------------
 
-/site/cache/*
-!/site/cache/index.html
+/www/site/cache/*
+!/www/site/cache/index.html
 
 # Accounts
 # ---------------
 
-/site/accounts/*
-!/site/accounts/index.html
+/www/site/accounts/*
+!/www/site/accounts/index.html
 
 # Sessions
 # ---------------
 
-/site/sessions/*
-!/site/sessions/index.html
+/www/site/sessions/*
+!/www/site/sessions/index.html
 
 # License
 # ---------------
-/site/config/.license
+/www/site/config/.license
