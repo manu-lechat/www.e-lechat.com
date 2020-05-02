@@ -13,4 +13,4 @@ jobs:
           ftp-server: ftp://ftp.cluster021.hosting.ovh.net/
           ftp-username: ${{ secrets.SFTP_USER }}
           ftp-password: ${{ secrets.SFTP_PASSWORD }} 
-          git-ftp-args: --changed-only # During the ftp mirror operation during a pull command, consider only the files changed since the deployed commit.
+          git-ftp-args: --changed-only --remote-root demo
