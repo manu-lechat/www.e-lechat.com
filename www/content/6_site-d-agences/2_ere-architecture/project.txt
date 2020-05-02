@@ -49,7 +49,10 @@ Contexte: Pour une agence d'Architecture, l'art et la manière de présenter ses
 
 ----
 
-Realisation: J'ai réalisé la mise en page front-end du projet, avec un effort porté sur l'animation css et le référencement.
+Realisation:
+
+Mise en page front-end du site.
+Mise en avant de l'animation css et le référencement.
 
 ----
 
