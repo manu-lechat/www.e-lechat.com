@@ -33,7 +33,7 @@ Subtitle: Agence d'architecture
 
 ----
 
-Objectif: Réalisation du site d'une agence d'architecture
+Objectif: Réalisation du site d'une agence d'architecture.
 
 ----
 
