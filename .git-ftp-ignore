@@ -1,3 +1,4 @@
+.github/*
 .gitignore
 */.gitignore      # ignore files in sub directories
 */.gitkeep
@@ -6,6 +7,3 @@
 .gitlab-ci.yml
 .ovhconfig
 readme.md
-/www/kirby/*
-/www/.htaccess
-/www/index.php
