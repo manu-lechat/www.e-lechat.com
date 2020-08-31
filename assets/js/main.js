@@ -14,7 +14,6 @@ function newPageReady(){
 
 function init_ui() {
 
-  console.log("init_ui");
   // setTimeout(showTime, 700);
   txtSplash();
   if(document.getElementById("intro")){
@@ -80,7 +79,6 @@ function initInterface() {
 
   function init_ContentScrollFx() {
 
-    console.log('init_ContentScrollFx()');
     var apear_items = document.querySelectorAll(".active_on_scroll");
     var active_screen_items = document.querySelectorAll(".active_screen_on_scroll");
     var isScrolling = false;
