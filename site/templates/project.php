@@ -51,7 +51,11 @@
         <?php  $imgId++;?>
         <?php if( $image = $page->image($image) ): ?>
           <div class="img_wrapper  img_wrapper_<?php echo $imgId;?>">
-            <img src="<?= $image->url() ?>"   alt="<?php $image->alt();?> " >
+            <!-- <img src="<?= $image->url() ?>"   alt="<?php $image->alt();?> " > -->
+            <img
+            src="<?= $image->url() ?>"
+            srcset="<?= $image->srcset([300, 800, 1080, 2160]) ?>" 
+            alt="<?= $page->parent()->title();?> -  <?= $page->subtitle();?> - <?= $page->objectif(); ?> - <?php foreach( $page->tags()->split() as $tag ): ?> <?= $tag ?> <?php endforeach ?>  - <?= $site->title();?>"/>
           </div>
         <?php endif ?>
       <?php endforeach ?>
@@ -71,7 +75,7 @@
       	<h2>Ok !</h2>
         <br>
         <p class="encart">
-         <span class="bold">Vous avez un projet en similaire : </span>
+         <span class="bold">Vous avez un projet en similaire ? </span>
          <br>
          N'hésitez pas à
          <a href="mailto:contact@e-lechat.com" class="soulignefx">me contacter</a>
@@ -90,13 +94,13 @@
     <?php elseif($next = $page->parent()->next()): ?>
       <?php if($next = $page->parent()->next()->children()->first()): ?>
       <a class="" href="<?= $next->url() ?>">
-        <h2>next page</h2><br>
-        <h2 class="ptititre"><?= $next->subtitle() ?></h2>
+        <h2 class="ptititre">next page</h2><br>
+        <h2><?= $next->subtitle() ?></h2>
       </a>
       <?php else: ?>
         <a class="" href="<?= $site->url() ?>">
-          <h2>next page</h2><br>
-          <h2 class="ptititre">Retour à l'accueil</h2>
+          <h2 class="ptititre">next page</h2><br>
+          <h2>Retour à l'accueil</h2>
         </a>
       <?php endif ?>
     <?php else: ?>

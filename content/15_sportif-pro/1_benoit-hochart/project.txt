@@ -1,0 +1,57 @@
+Title: benoit-hochart
+
+----
+
+Seo-tags: Site d'un skipper pro
+
+----
+
+Togglehome: true
+
+----
+
+Category: imac
+
+----
+
+Images-projet:
+
+- 001.jpg
+- fullpage.jpg
+- fullpage2.jpg
+- 003.jpg
+- mobile.png
+- mobile2.png
+- 004.jpg
+
+----
+
+Video: 
+
+----
+
+Subtitle: Site du navigateur Benoit Hochart
+
+----
+
+Objectif: Communiquer les valeurs d'un skipper
+
+----
+
+Description: Benoit Hochart est skipper pro et engagé. Son site présente son profil de skipper et son engagement dans la course au large.
+
+----
+
+Urlsite: https://www.benoithochart.com/
+
+----
+
+Contexte: Benoit Hochart est skipper pro et engagé. Son site présente son profil de skipper et son engagement dans la course au large.
+
+----
+
+Realisation: Réalisation de la maquette graphique par Morgane Maillard. J'ai bossé sur l'Ux du site (wireframes et contenus) et réalisé l'integration ainsi qu'un back-office complet.
+
+----
+
+Tags: Site d'un skipper, template sur-mesure, carnet de bord interactif

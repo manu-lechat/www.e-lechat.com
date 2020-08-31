@@ -16,9 +16,11 @@ Category: borne
 
 Images-projet:
 
+- >
+  salon-des-bonus-ferme-du-buisson-credit-thierry-guillaume.jpg
 - 031-page-item.jpg
-- 01-page-d-accueil.jpg
 - 041-page-contenu_video.jpg
+- 01-page-d-accueil.jpg
 - 032-page-item-commentaires.jpg
 - 02-page-volet.jpg
 

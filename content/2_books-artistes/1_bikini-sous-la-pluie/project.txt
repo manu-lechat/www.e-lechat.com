@@ -1,0 +1,54 @@
+Title: Bikini sous la pluie
+
+----
+
+Seo-tags: portfolio textil designer
+
+----
+
+Togglehome: true
+
+----
+
+Category: imac
+
+----
+
+Images-projet:
+
+- 005.jpg
+- fullscreen.jpg
+- fullscreen2.jpg
+- 001.jpg
+
+----
+
+Video: 
+
+----
+
+Subtitle: surface pattern designer
+
+----
+
+Objectif: Créer un portfolio minimaliste & sur-mesure.
+
+----
+
+Description: designer textile
+
+----
+
+Urlsite: https://bikinisouslapluie.com/
+
+----
+
+Contexte: Caroline est textile designer. Elle présente ici son portfolio avec une partie en accès privée destinée aux professionnels.
+
+----
+
+Realisation: Portfolio développé sur-mesure dans une esthétique minimaliste. Mise en place d'un Cms pour la complète gestion du contenu.
+
+----
+
+Tags: création d'un porfolio sur-mesure, design minimal

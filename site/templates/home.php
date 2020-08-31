@@ -165,7 +165,15 @@ $vireBadCars = function($chaineBad){
                   <?php foreach( $project->images_projet()->yaml() as $image ): ?>
                     <?php  $imgId++;?>
                     <?php if( $image = $project->image($image) ): ?>
-                    <img src="<?= $image->thumb(['width' => 720])->url() ?>"   alt="<?php $shuffle_seo($seo_array,5); ?>"  class="img_<?php echo $imgId;?>">
+                    <!-- <img src="<?= $image->thumb(['width' => 720])->url() ?>"   alt="<?php $shuffle_seo($seo_array,5); ?>"  class="img_<?php echo $imgId;?>"> -->
+
+                    <img
+                    src="<?= $image->url() ?>"
+                    srcset="<?= $image->srcset([300, 800, 1040]) ?>" 
+                    class="img_<?php echo $imgId;?>"
+                    alt="<?= $project->parent()->title();?> -  <?= $project->subtitle();?> - <?= $project->objectif(); ?> - <?php foreach( $project->tags()->split() as $tag ): ?> <?= $tag ?> <?php endforeach ?>  - <?= $site->title();?>"/>
+
+
                     <?php endif ?>
                   <?php endforeach ?>
                 </div>
